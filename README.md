@@ -23,3 +23,14 @@ We imported the library  matplotlib for plots and our Diffusion package for Popu
 
 
 We will be using iPad sales data in order to back our research. The diffusion of iPad is used to study the trend of how new innovations are adopted and later disposed and there sustainability in the society.
+
+
+![p43](https://user-images.githubusercontent.com/98371832/176995186-d8dafe43-cd67-430d-b5f4-6d015f50653c.png)
+
+
+
+![P44](https://user-images.githubusercontent.com/98371832/176995196-9e137f98-b003-43c4-8736-7e0bb1ba0ea2.png)
+
+
+
+
